@@ -1,7 +1,9 @@
-DESCRIPTION
+DESCRIPTION:
+
 A to-do list is a tool used to manage tasks and activities that need to be completed. It is a simple list of items that can be checked off as they are completed, allowing individuals to prioritize and organize their work efficiently. A to-do list can be created for personal or professional purposes and can range from simple daily tasks to complex projects. Some common features of a to-do list may include deadlines, priorities, notes, and reminders. The use of a to-do list can help individuals stay focused, reduce stress, and increase productivity by providing a clear plan of action for the day or week.
 
-DATA
+DATA:
+
 There are many options for creating a database for a to-do list. Some popular options include:
 
 Microsoft Access: This is a powerful database management system that can be used to create a custom to-do list database with features such as task tracking, priority setting, and due date reminders.
